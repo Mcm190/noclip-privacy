@@ -16,10 +16,16 @@ It is playable offline, without ads or a game account. The first three levels ar
 
 The live listing's What's new section identifies version 1.0.5 and shows an update date of 24 October 2026. The original launch date is unverified. Its text still refers to an exit button; the current project and supplied images show the floating key.
 
-**Android device media (v2 kit):** `android-device/` holds nine unedited stills from a 27 October 2026 screen recording of NOCLIP on the developer's own Android phone (2340 × 1080): the title screen and Level 14, The Cathedral, with the real touch HUD (movement stick, pause, route-tag button, objective line and radar). The FPS/CPU/GPU/RAM readout in the bottom-right corner is the phone's own performance overlay, not part of the game. The developer's copy has every level unlocked, so its level select reads "Every level is open". A 30-second phone gameplay clip is available on request.
+**Android device media (v2 kit):** `android-device/` holds nine unedited stills from a 27 October 2026 screen recording of NOCLIP on the developer's own Android phone (2340 × 1080): the title screen and Level 14, The Cathedral, with the real touch HUD (movement stick, pause, route-tag button, objective line and radar). The FPS/CPU/GPU/RAM readout in the bottom-right corner is the phone's own performance overlay, not part of the game. The developer's copy has every level unlocked, so its level select reads "Every level is open". The 30-second phone gameplay clip is public at https://youtu.be/bvboId3vrQE .
 
 `desktop-captures/` holds five earlier unedited screenshots from the desktop build of the same project, showing other levels, the floating key and the blackout. Keyboard prompts are visible in those.
 
 **Media clearance:** gameplay footage and in-game audio may be recorded, streamed and used in short social clips. All game audio is original and synthesised for NOCLIP. Please credit **1900xd**. No iOS, multiplayer or VR release is claimed.
 
 Use developer **1900xd** and package **com.noclip.backrooms** to identify the game; other products share the NoClip name. Facts checked against the source repository and live store listing on 27 October 2026. No awards, ratings or testimonials are asserted.
+
+
+**Additional native Android screenshots (28 October 2026):** five 1920 × 1080 captures from the existing 1.0.5 debug APK in a separate visible Android 35 emulator: Office key, Office blackout, Poolrooms, Hotel and Cathedral. Developer controls selected levels/positions. PNG originals are exported losslessly as RGB without alpha, with no resizing, cropping, retouching or added text. They do not establish physical-phone performance. Web previews are re-encoded as JPEG. The original v2 kit remains unchanged; this set is available separately from the press page.
+
+**Official game / press page:** https://mcm190.github.io/noclip-privacy/press/
+**51-second emulator trailer:** https://youtu.be/1P4stcDsVtA (developer teleports; audio mixed from the game's own sounds).
