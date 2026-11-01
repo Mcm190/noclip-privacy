@@ -1,0 +1,10 @@
+NOCLIP by 1900xd — blackout Short
+
+Original clip: marketing/youtube/emulator-clips/noclip-short-blackout.mp4, created27October2026.
+19.1seconds, actual Android emulator footage captured from a developer build. Developer shortcuts jump between moments; edited with in-game audio mixed afterwards from the game’s own files. Not an uncut playthrough or a phone performance test.
+
+This public MP4 is a byte-identical copy of the existing published YouTube Short source, not a new gameplay capture or game build. No source code or APK is included.
+
+Gameplay footage and in-game audio are cleared for videos, Shorts and streams. Please credit1900xd.
+Google Play: https://play.google.com/store/apps/details?id=com.noclip.backrooms
+Press page: https://mcm190.github.io/noclip-privacy/press/
